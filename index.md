@@ -38,9 +38,8 @@ A: Currently, your medication history is stored securely in the app and synced t
 If you have any questions, concerns, or feedback, please don't hesitate to reach out:
 
 - Email: [medtrack@sireneast.com](mailto:medtrack@sireneast.com)
-- Twitter: [@MedTRACKApp](https://twitter.com/MedTRACKApp)
 
 ## Legal
 
-- [Privacy Policy](/privacy-policy)
-- [Terms of Use](/terms) 
+- [Privacy Policy]({{ site.baseurl }}/privacy-policy)
+- [Terms of Use]({{ site.baseurl }}/terms) 
