@@ -62,4 +62,3 @@ These terms shall be governed by and construed in accordance with the laws of th
 If you have any questions about these Terms, please contact us:
 
 - Email: [medtrack@sireneast.com](mailto:medtrack@sireneast.com)
-- Twitter: [@MedTRACKApp](https://twitter.com/MedTRACKApp) 

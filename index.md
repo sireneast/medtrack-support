@@ -42,4 +42,4 @@ If you have any questions, concerns, or feedback, please don't hesitate to reach
 ## Legal
 
 - [Privacy Policy]({{ site.baseurl }}/privacy-policy)
-- [Terms of Use]({{ site.baseurl }}/terms) 
+- [Terms of Use]({{ site.baseurl }}/terms)  
