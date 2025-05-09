@@ -60,5 +60,5 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- Email: [privacy@medtrack.app](mailto:privacy@medtrack.app)
+- Email: [medtrack@sireneast.com](mailto:medtrack@sireneast.com)
 - Twitter: [@MedTRACKApp](https://twitter.com/MedTRACKApp) 
