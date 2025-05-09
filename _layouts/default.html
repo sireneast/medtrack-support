@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - MedTRACK Support</title>
+    <style>
+        :root {
+            --primary-color: #007AFF;
+            --text-color: #333;
+            --background-color: #fff;
+            --secondary-background: #f5f5f7;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+            background-color: var(--background-color);
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        header {
+            background-color: var(--secondary-background);
+            padding: 1rem 0;
+            margin-bottom: 2rem;
+        }
+        
+        .header-content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        nav {
+            margin-top: 1rem;
+        }
+        
+        nav a {
+            color: var(--primary-color);
+            text-decoration: none;
+            margin-right: 1.5rem;
+        }
+        
+        nav a:hover {
+            text-decoration: underline;
+        }
+        
+        h1 {
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+        }
+        
+        h2 {
+            color: var(--primary-color);
+            margin-top: 2rem;
+        }
+        
+        .feature-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        
+        .feature-list li {
+            margin-bottom: 1rem;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+        
+        .feature-list li:before {
+            content: "•";
+            color: var(--primary-color);
+            position: absolute;
+            left: 0;
+        }
+        
+        footer {
+            margin-top: 4rem;
+            padding: 2rem 0;
+            background-color: var(--secondary-background);
+            text-align: center;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            nav {
+                display: flex;
+                flex-direction: column;
+            }
+            
+            nav a {
+                margin: 0.5rem 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>MedTRACK</h1>
+            <nav>
+                <a href="/">Home</a>
+                <a href="/privacy-policy">Privacy Policy</a>
+                <a href="/terms">Terms of Use</a>
+            </nav>
+        </div>
+    </header>
+    
+    <div class="container">
+        {{ content }}
+    </div>
+    
+    <footer>
+        <div class="container">
+            <p>© {{ site.time | date: '%Y' }} MedTRACK. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html> 
