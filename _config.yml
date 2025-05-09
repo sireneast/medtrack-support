@@ -1,7 +1,7 @@
 title: MedTRACK Support
 description: Support and documentation for MedTRACK - Your Simple Medication Tracking App
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/medtrack-support" # the subpath of your site
+url: "https://sireneast.github.io" # your GitHub Pages URL
 
 # Build settings
 markdown: kramdown
