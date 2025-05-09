@@ -23,6 +23,22 @@ At MedTRACK, we take your privacy seriously. This Privacy Policy explains how we
 - Data synced through iCloud is encrypted in transit and at rest
 - You can disable iCloud sync at any time through your device settings
 
+### Health Information
+- MedTRACK allows you to log medication information, which is considered health data
+- This health data remains private and is:
+  - Stored only on your device and in your personal iCloud account
+  - Never accessed by us or any third parties
+  - Protected by your device's security features
+  - Not used for any purpose other than providing you the tracking functionality
+
+## Security
+
+We implement appropriate technical and organizational security measures to protect your data:
+- All data is encrypted on your device
+- iCloud sync uses Apple's secure infrastructure
+- Access is protected by your device's security features (Face ID, Touch ID, or passcode)
+- No external network connections except for iCloud sync
+
 ## Data Collection
 
 We do not collect:
@@ -32,6 +48,11 @@ We do not collect:
 - Location data
 - Any other user data
 
+## Data Retention
+- Your data remains on your device until you choose to delete it
+- Deleting the app will remove all local data
+- iCloud data can be managed through your iCloud settings
+
 ## Third-Party Services
 
 MedTRACK:
@@ -39,6 +60,29 @@ MedTRACK:
 - Does not share data with third parties
 - Does not use advertising services
 - Does not track user behavior
+
+## Medical Disclaimer
+
+MedTRACK is a tracking tool only and:
+- Is not intended to provide medical advice
+- Should not be used as a medication reminder system
+- Is not a substitute for professional medical advice
+- Should not be relied upon for medical decisions
+
+Always consult with healthcare professionals regarding medical treatment and medications.
+
+## Emergency Access
+- Consider adding emergency contact information to your device's Medical ID
+- MedTRACK does not provide emergency access to your medication data
+- In case of emergency, contact medical professionals directly
+
+## Compliance
+
+MedTRACK complies with:
+- Apple's App Store Guidelines for Health and Medical apps
+- General Data Protection Regulation (GDPR) principles
+- California Consumer Privacy Act (CCPA) requirements
+- Health Insurance Portability and Accountability Act (HIPAA) principles for user privacy
 
 ## Your Rights
 
