@@ -41,5 +41,5 @@ If you have any questions, concerns, or feedback, please don't hesitate to reach
 
 ## Legal
 
-- [Privacy Policy]({{ site.baseurl }}/medtrack-support/privacy-policy)
-- [Terms of Use]({{ site.baseurl }}/medtrack-support/terms)  
+- [Privacy Policy]({{ site.baseurl }}/privacy-policy)
+- [Terms of Use]({{ site.baseurl }}/terms)  
